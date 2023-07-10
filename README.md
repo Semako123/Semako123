@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zosu Semako</h1>
 <h3 align="center">A full stack developer striving and aiming for the top</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=semako123&label=Profile%20views&color=0e75b6&style=flat" alt="semako123" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semako123" alt="semako123" /></a> </p>
 
 
-- 🌱 I’m currently learning **React and it's frameworks**
+- 🌱 I’m currently building
 
 - 👨‍💻 All of my projects are available at [github.com/semako123](github.com/semako123)
 
